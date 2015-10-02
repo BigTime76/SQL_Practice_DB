@@ -1,3 +1,5 @@
+-- Written using SQL Server 2012 and 2014
+
 USE [master]
 GO
 
